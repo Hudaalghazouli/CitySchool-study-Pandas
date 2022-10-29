@@ -1,5 +1,5 @@
 We were asked to do data analyzing to the district-wide standardized test results for many schools in the city.
-According to the sudy we were doing we found that:
+According to the sudy we were doing we found the following:
 Charter Schools have higher math reading and overall passing score than District Schools.
 Smaller schools have higher grades than the large ones. 
 Schools with less budget money per student have higher grades than the others with large budget.
